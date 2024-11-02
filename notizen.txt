@@ -1,0 +1,8 @@
+- Emissionen (in CO2-Äquivalenten) müssen für alle Fortbewegungsarten berechnet werden. Zielprodukt: Tabelle mit "Fahrzeug"kategorie und CO2e.
+- Haupttabelle erstellen: Wer, was für ein Weg, Wegzweck, Fortbewegungsart (zum Merge mit CO2e-Tabelle) -> Merge Einzelpersonen mit Wege (Oriana)
+- CO2e pro Weg berechnen und als zusätzliche Spalte einfügen (Larissa)
+
+
+Fragen an Curdin:
+- Soll nur die Schweiz (WegeInland) betrachtet werden?
+- Ist die Fahrzeugeinteilung detailliert genug?
