@@ -5,4 +5,9 @@
 
 Fragen an Curdin:
 - Soll nur die Schweiz (WegeInland) betrachtet werden?
+Alle Wege sollen betrachtet werden, da Reisen auch zur Freizeit gehören.
+
 - Ist die Fahrzeugeinteilung detailliert genug?
+
+- Pro Weg ein Verkehrsmittel oder aufgeteilt auf die Einzellnen Etapen?
+Anfangs für einfache Modelle kann das Hautpverkehrsmittel genommen werden. Für eine genauere Analyse sollten die Verkehrsmittel auf die Etappen aufgeteilt sein. 
