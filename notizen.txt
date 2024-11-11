@@ -3,6 +3,30 @@
 - CO2e pro Weg berechnen und als zusätzliche Spalte einfügen (Larissa)
 
 
+Zielpersonen:
+	- Haushaltsnummer | HHNR
+	- Alter | alter
+	- Geschlecht | gesl
+	- Führerausweis Kategorie | f20400a-d
+	- Höchste Ausbildung | f40120
+	- Erwerbstätigkeit (std./Woche) | f40921
+	- Arbeitszeitmodel | f81200
+	- Wetter am Stichtag | f50100a
+	- Öv-Abos | f41600a-g
+	- VerfügbarkeitEr Verkehrsmittel (Auto, Velo, Mofa, Motorrad) | f42100a-e
+	- Zivilstand | zivil
+	- Erwerbsstatus 10 stufig| ESTATUS oder  4 Stufig | ERWERB
+	- Tägliche Anzahl Freizeitwege |T_Freizeit
+
+
+Wege: 
+	- Haushaltsnummer | HHNR
+	- Start x-Koordinate | S_X + Start Y-Koordinate | S_Y
+	- Ziel X-Koordinate | Z_X + Ziel Y-Koordinate | Z_Y
+	- Art der Freizeitaktivität | f51700_weg
+	- Unterwegs in Minuten | dauer2
+  - Zweck des Weges | wzweck1
+
 Fragen an Curdin:
 <<<<<<< HEAD
 - Soll nur die Schweiz (WegeInland) betrachtet werden? Wege nehmen
