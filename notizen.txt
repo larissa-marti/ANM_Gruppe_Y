@@ -2,6 +2,11 @@
 - Haupttabelle erstellen: Wer, was für ein Weg, Wegzweck, Fortbewegungsart (zum Merge mit CO2e-Tabelle) -> Merge Einzelpersonen mit Wege (Oriana)
 - CO2e pro Weg berechnen und als zusätzliche Spalte einfügen (Larissa)
 
+- Führerausweis pro Verkehrsmittel zusammennehmen
+- Fahrzeuge zusammen nehmen wie Larissa Datensatz:
+Mofa und Kleinmotorrad besitzer = Mofa
+Freizeitaktivitäten; Nummern ausschreiben
+
 
 Zielpersonen:
 	- Haushaltsnummer | HHNR
@@ -26,6 +31,9 @@ Wege:
 	- Art der Freizeitaktivität | f51700_weg
 	- Unterwegs in Minuten | dauer2
   - Zweck des Weges | wzweck1
+
+
+
 
 Fragen an Curdin:
 <<<<<<< HEAD
