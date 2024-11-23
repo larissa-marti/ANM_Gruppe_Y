@@ -163,3 +163,7 @@ cython_debug/
 
 # Daten
 /Data
+
+# outputs
+/outputs
+/generated_data
